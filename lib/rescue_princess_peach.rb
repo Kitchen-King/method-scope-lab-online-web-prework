@@ -3,7 +3,7 @@ def rescue_princess_peach
   puts "Hooray! Mario has #{status} Princess Peach."
 end
 
-
+puts status
 
 
 ## Comment the below back in to see method scope in action!
